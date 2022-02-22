@@ -1,0 +1,350 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ansvvere to one question Wherevpon dependet[h] the resolution of all controuersies, doubts, and questions, which are, or can be made about matters of faith[.] Wherefore it is dilige[n]tly, &amp; carefully reade, and duely pondered, after prayer made to God for the light of his grace, without which it cannot be rightly vnderstood in such sort as is fit. Permissu superiorum.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1628</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A20163</idno>
+            <idno type="STC">STC 660</idno>
+            <idno type="STC">ESTC S115860</idno>
+            <idno type="EEBO-CITATION">99851077</idno>
+            <idno type="PROQUEST">99851077</idno>
+            <idno type="VID">16332</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A20163)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 16332)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 867:05)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ansvvere to one question Wherevpon dependet[h] the resolution of all controuersies, doubts, and questions, which are, or can be made about matters of faith[.] Wherefore it is dilige[n]tly, &amp; carefully reade, and duely pondered, after prayer made to God for the light of his grace, without which it cannot be rightly vnderstood in such sort as is fit. Permissu superiorum.</title>
+               </titleStmt>
+               <extent>23, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>English secret press],</publisher>
+                  <pubPlace>Printed at Doway [i.e. England :</pubPlace>
+                  <date>MCDXXVIII. [1628]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Actual printer from STC.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature --  Early works to 1800.</term>
+               <term>Catholic Church --  Doctrines --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:16332:1"/>
+            <pb facs="tcp:16332:1"/>
+            <p>AN ANSVVERE TO ONE <hi>QVESTION.</hi> WHEREVPON DEPENDET<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> The Reſolution of all CONTROVERSIES, Doubts, and Queſtions, which are, or can be made about matters of FAITH</p>
+            <p>Wherefore it is to be dilige<g ref="char:cmbAbbrStroke">̄</g>tly, &amp; carefully reade, and duely pondered, after pray<g ref="char:EOLhyphen"/>er made to God for the light of his grace, without which it can<g ref="char:EOLhyphen"/>not be rightly vnder<g ref="char:EOLhyphen"/>ſtood in ſuch ſort as is fit.</p>
+            <p>Permiſſu Superiorum.</p>
+            <p>Printed at DOWAY.</p>
+            <p>MCDXXVIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:16332:2"/>
+            <div type="part">
+               <head>THE QVESTION.</head>
+               <p>
+                  <seg rend="decorInit">W</seg>Hether is it neceſſary, that there ſhould be in all ages ſince Chriſt, a Viſible Chriſtian Church, hauing in it lawfully ſent viſible Paſtours, and Doctours, teaching with Infallible Authority <hi>One</hi> and the ſame <hi>Infallible,</hi> ſincere, and intire <hi>Faith</hi> of Chriſt, neceſſary to ſaluation; without admixtion of any errour, propoſed as deuine <hi>Truth,</hi> (by addition, or detracti<g ref="char:EOLhyphen"/>on, or miſ-interpretation) contrary to the Doctrine firſt deliue<g ref="char:EOLhyphen"/>red by our Sauiour and his Apoſtles, &amp; which Church hath bin ſuch?</p>
+            </div>
+            <div type="part">
+               <pb n="3" facs="tcp:16332:2"/>
+               <head>THE ANSWERE.</head>
+               <head type="sub">It is neceſſary that one ſuch Church be: and the Roman Ca<g ref="char:EOLhyphen"/>tholicke Church only is ſuch.</head>
+               <head type="sub">For Declaration of the truth of this my Anſwere:</head>
+               <p>
+                  <seg rend="decorInit">I</seg>T Is to be noted 1. That although Al<g ref="char:EOLhyphen"/>mighty God, by his omnipotent power could, by extraordi<g ref="char:EOLhyphen"/>nary meanes, breed in<g ref="char:EOLhyphen"/>fallible, ſupernaturall, Deuine, ſoule-ſauing Faith in men, without vſinge the help of any viſible Doctours, Paſtours, or any other liuing creature. Yet if we ſpeake, as we ought, according to the or<g ref="char:EOLhyphen"/>dinary law, &amp; courſe of Gods prouide<g ref="char:cmbAbbrStroke">̄</g>ce, manifeſted in the Holy Scriptures, and confirmed by Hiſtories, and daily expe<g ref="char:EOLhyphen"/>rience; It is neceſſary, that there ſhould be in all ages, ſome or other <hi>Viſible</hi>
+                  <pb n="4" facs="tcp:16332:3"/>Doctours and Paſtours, or lawfully ſent Preachers, authoriſed by Almighty God, and aſſiſted by the Holy Spirit of <hi>Truth,</hi> promiſed for euer to be in the ſaid Church, to teach it all <hi>Truth:</hi> For otherwiſe people of each age could not be ſufficiently inſtructed, nor confirmed in Infallible certainty, and vnity requiſite in ſoule-ſauing Chriſtian Faith: nor pre<g ref="char:EOLhyphen"/>ſerued from wauering in vncertainety, or wandering in errours, contrary to that <hi>One, Infallible, entire, and ſincere</hi> Faith of Chriſt, which is neceſſary to ſaluation.</p>
+               <p>Note 2. That the <hi>Neceſſity</hi> of Do<g ref="char:EOLhyphen"/>ctors, and Paſtors in the Church, is not only generally acknowledged by anci<g ref="char:EOLhyphen"/>ent Fathers, and all other learned Catho<g ref="char:EOLhyphen"/>liques of this age; but is alſo confeſſed by the Learneder ſort of Proteſtants. On<g ref="char:EOLhyphen"/>ly Proteſtants deny, theſe Doctours, and Paſtours, of whatſoeuer age af<g ref="char:EOLhyphen"/>ter the Apoſtles, to haue Infallible Au<g ref="char:EOLhyphen"/>cthority, although teaching with vna<g ref="char:EOLhyphen"/>nimous conſent, or with full Authority of a lawfully called, continued, and confirmed Generall Counſell; vnleſſe it be in points Fundamentall, or ſoe
+<pb n="5" facs="tcp:16332:3"/>farreforth as they prooue out of Scri<g ref="char:EOLhyphen"/>pture. But Catholickes hold the Autho<g ref="char:EOLhyphen"/>rity of the Church to be <hi>Infallible,</hi> in whatſoeuer point of Faith.</p>
+               <div type="section">
+                  <head>This therefore being the chiefe point in Queſtion.</head>
+                  <p>I will prooue, that there is Infallible <hi>Aucthority</hi> in the lawfully ſent Doctors. Paſtours, and Preachers of the <hi>Viſible</hi> Church of Chriſt, ſoe farreforth as in any age after Chriſt they teach, and propoſe to people doctrine to be belee<g ref="char:EOLhyphen"/>ued by deuine Faith, with vnanimous conſent, or with there full Aucthority in any lawfully called, continued, and confirmed Generall Councell, whatſo<g ref="char:EOLhyphen"/>euer the point of Faith be, Fundame<g ref="char:cmbAbbrStroke">̄</g>tall, or not Fundamentall, prooued out of Scripture, or not ſoe prooued.</p>
+               </div>
+               <div type="section">
+                  <head>This I prooue firſt by plaine texts of holy Scriptures.</head>
+                  <p>
+                     <hi>My ſpirit which is in thee,
+<note place="margin">
+                           <hi>Iſa.</hi> 59.21.</note> and my word, which I haue put in thy mouth, ſhall not depart out of thy mouth, nor out of the mouth of thy ſeed, nor out of the mouth
+<pb n="6" facs="tcp:16332:4"/>of the ſeed of thy ſeed, from benceforth for euer.</hi>
+                  </p>
+                  <p>
+                     <hi>I will aske my Father,
+<note place="margin">
+                           <hi>Ioan.</hi> 14.16</note> and he will giue you another Paraclete, that he may re<g ref="char:EOLhyphen"/>maine with you for euer, the ſpirit of Truth.</hi>
+                  </p>
+                  <p>
+                     <hi>When the ſpirit of Truth ſhall Come,
+<note place="margin">
+                           <hi>Ioan.</hi> 16.13</note> he ſhall teach you all Truth.</hi>
+                  </p>
+                  <p>
+                     <hi>Going teach all nations &amp;c. taching them to obſerue all things whatſoeuer I haue Commanded you;
+<note place="margin">
+                           <hi>Matth.</hi> 28 19.20.</note> and behould I am with you, all dayes vnto the end of the world.</hi>
+                  </p>
+                  <p>
+                     <hi>Preach the Goſpell to euery creature and he that will not</hi> beleeue <hi>ſhall be con<g ref="char:EOLhyphen"/>demned.</hi>
+                     <note place="margin">
+                        <hi>Mare.</hi> 16.16.</note>
+                  </p>
+                  <p>
+                     <hi>Hee that will not</hi> heare <hi>the,
+<note place="margin">
+                           <hi>Math.</hi> 18 17.</note> Church let him bee to the a Heathen and Publican.</hi>
+                  </p>
+                  <p>
+                     <hi>Vpon the Chayre of Moyſes Scribes,
+<note place="margin">
+                           <hi>Math.</hi> 23.2 3.</note> and Phariſes haue ſitten: all things ther<g ref="char:EOLhyphen"/>fore whatſoeuer they ſhall ſay to you, Ob<g ref="char:EOLhyphen"/>ſerue yee and doe.</hi>
+                  </p>
+                  <p>
+                     <hi>Hee that heareth you,
+<note place="margin">
+                           <hi>Luc.</hi> 10.16</note> heareth me he that deſpiſeth you, despiſeth me.</hi>
+                  </p>
+                  <p>
+                     <hi>Obey your Prelates and be ſubiect to them for they Watch,
+<note place="margin">
+                           <hi>Heb.</hi> 13.17.</note> as being to render accompt for your Soules.</hi>
+                  </p>
+                  <p>
+                     <hi>The lipps of the Preiſt ſhall keepe Knowledg,
+<note place="margin">
+                           <hi>Malach.</hi> 2.7.</note> and they ſhall require the Law
+<pb n="7" facs="tcp:16332:4"/>out of his Mouth, becauſe he is the Angell (or Meſſenger) of the Lord of Hoſtes.</hi>
+                  </p>
+                  <p>
+                     <hi>He that ſhalbe proud refuſing to obey the Commaundement of the Prieſt,
+<note place="margin">
+                           <hi>Deterom.</hi> 17.</note> who at that time doth miniſter vnto the Lord, by decree of the Iudge, that man ſhall dye.</hi>
+                  </p>
+                  <p>
+                     <hi>How ſhall they beleeue,
+<note place="margin">
+                           <hi>Rom.</hi> 10.14.15.</note> whome they haue not heard? How ſhall they heare without a Preacher? How ſhall they preach, vnles they beſent.</hi>
+                  </p>
+                  <p>
+                     <hi>Hee hath giuen ſome Apoſtles,
+<note place="margin">
+                           <hi>Epheſ.</hi> 4.</note> Some Prophets, and Euangeliſts, others Pa<g ref="char:EOLhyphen"/>ſtors, and Doctours &amp;c. that we be not now little ones wauering, and Carri<g ref="char:EOLhyphen"/>ed about with enery wind of Doctrine.</hi>
+                  </p>
+                  <p>
+                     <hi>The Church of the Liuing God is the Pillar and Ground of Truth.</hi>
+                     <note place="margin">1. <hi>Tim.</hi> 3.15.</note>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Out of which texts I frame this argument.</head>
+                  <p>THoſe to whome Almighty God hath promiſed the ſpirit of <hi>Truth,</hi> to teach them all Truth: and in whoſe mouth he hath placed his word, (and this not for one, or two, or moe of the firſt ages after Chriſt, but for euer, &amp; all
+<pb n="8" facs="tcp:16332:5"/>dayes, vntill the end of the world) ma<g ref="char:EOLhyphen"/>king them his Legates, and Meſſengers ouer the whole world, and out of whoſe mouth people are to require his Law, in whome they are commanded to heare, beleiue, and obey, in whatſo<g ref="char:EOLhyphen"/>euer they teach, as if Chriſt Ieſus him<g ref="char:EOLhyphen"/>ſelfe did teach, and this vnder paine of Death, and eternall Damnation, and of being accompted as <hi>Heathens,</hi> and <hi>Publicans.</hi>
+                  </p>
+                  <p>Thoſe (I ſay) to whome ſuch Pro<g ref="char:EOLhyphen"/>miſes are made, and ſuch Authority is giuen by Allmightie God, without any Limitation, or <hi>reſtictiue Condition,</hi> muſt needs be thought to haue farre more Au<g ref="char:EOLhyphen"/>thority then any others, to whome no ſuch Promiſe was made, nor Authority giuen, yea they muſt needes be thought to haue <hi>Infallible</hi> Authority, and to be a firme Pillar, and Ground of <hi>Truth,</hi> as <hi>S. Paul</hi> ſtileth the Church: ſoe as they neuer did, nor ſhall be permitted, to teach any errours by <hi>Addition, Detra<g ref="char:EOLhyphen"/>ction,</hi> or <hi>Miſinterpretatio<g ref="char:cmbAbbrStroke">̄</g>
+                     </hi> of Gods Word, at leaſt with vnanimous Conſent, and when (by a <hi>Viſum eſt Spiritui Sancto et nobis,</hi> or ſome ſuch like ſigne of vſing
+<pb n="9" facs="tcp:16332:5"/>their full Authority) they expreſſe the<g ref="char:cmbAbbrStroke">̄</g>ſelues to teach (as Gods Legats, Meſ<g ref="char:EOLhyphen"/>ſengers, and lawfully ſent Preachers,) not thire owne Priuate inuentions, or opini<g ref="char:EOLhyphen"/>ons, but the publique Doctrine of God, and the Church. But to the <hi>Doctours,</hi> and <hi>Paſtours</hi> of the Catholick <hi>Viſible</hi> Church in all Ages theſe Promiſes were made, and this Authority was giuen without any Limitation, or <hi>reſtrictiue Conditi<g ref="char:EOLhyphen"/>on,</hi> as appeareth by the Texts afore<g ref="char:EOLhyphen"/>cited.</p>
+                  <p>Therefore the Authority of <hi>Doctours,</hi> and <hi>Paſtours</hi> of the <hi>Viſible</hi> Church in all ages is <hi>Infallible,</hi> in all points with vnanime conſent, or by their full Aucthoritie, they teach to be deuine Truth, whether the poynt be great, or littell, Fundamentall, or not Funda<g ref="char:EOLhyphen"/>mentall, or whether they bring proofe for that they teach out of Scripture, or not. For in the afoure ſaid text there is no ſuch <hi>Limitation</hi> of great, or little, Fun<g ref="char:EOLhyphen"/>damentall, or not Fundamentall points of Truth: Nor any ſuch <hi>reflrictiue Conditi<g ref="char:EOLhyphen"/>on</hi> of proouing what they teach out of Scripture.</p>
+               </div>
+               <div type="section">
+                  <pb n="10" facs="tcp:16332:6"/>
+                  <head>Seendly I prooue the ſame by Sen<g ref="char:EOLhyphen"/>tences of ancient Fathers.</head>
+                  <p>Firſt <hi>S. Irenaeus,</hi>
+                     <note place="margin">
+                        <hi>S. Iren. l.</hi> 3. <hi>cap.</hi> 4.</note> who liued in the next age to the Apoſtles, ſayth. <hi>We ought not to ſeeke Truth from others, which we may eaſily receaue from the Church; Sith the Apoſtles haue layd vp in it, as in a rich treſury, or ſtorehouſe, moſt fully thoſe things which are of Truth &amp;c.</hi> And a litle af<g ref="char:EOLhyphen"/>ter to ſhew that this is not meant with onely Limitatio<g ref="char:cmbAbbrStroke">̄</g> of Fundamentall points he addeth ſaying: <hi>and if controuerſie a<g ref="char:EOLhyphen"/>riſe euen about ſome ſmall queſtio<g ref="char:cmbAbbrStroke">̄</g>s, ſhould we not haue recourſe to the moſt ancient Church, in which the Apoſtles did Co<g ref="char:cmbAbbrStroke">̄</g>uerſe and take from them what is certaine, and cleare in this queſtion.</hi> And further, to ſhew that it is not neceſſary that this Church muſt prooue euery thing ſhe doth teach out of Scripture, he preſent<g ref="char:EOLhyphen"/>ly addeth: <hi>What if the Apoſtles had left vs no Scripture, ought wee not to haue follow<g ref="char:EOLhyphen"/>ed the Order of Tradition?</hi>
+                  </p>
+                  <p n="2">2.
+<note place="margin">Tert. lib. de Praeſiript.</note> 
+                     <hi>Tereullian</hi> ſaith: The order of things doth require, that this Queſtion ſhould firſt be propounded, to whome <q>doth faith belonge (as if he ſhould ſay which is the true Church?)</q> Whoſe are
+<pb n="11" facs="tcp:16332:6"/>the Scriptures, from whome, by whome, when, and to whome, was the Diſcipline deliuered, by which we are made Chriſtians, for where the trueth of Chriſtian Diſcipline, and Faith ſhall appeare to be, there ſhalbe the Trueth of Scriptures, and expoſitions, and all Chriſtian Traditions. By which we may learne, that although to one, who doth beleeue Scriptures, we may out of them prooue which is the true Church, yet to proceed according to right or<g ref="char:EOLhyphen"/>der of things, the true ancient, &amp; alwaies Viſible, continued Church, is to be found firſt; and from the true Church we muſt finde which be true Scriptures, which true Expoſitions, and all true Chriſtian Traditions.</p>
+                  <p n="3">3. <hi>S. Cyprian</hi> ſaith:
+<note place="margin">
+                        <hi>S. Cyprian. lib.</hi> 1. <hi>c.</hi> 3.</note> That from no other roote do Heriſies and Schiſmes ſpringe, but from this, that men doe not obey the Prieſt of God, <q>neither do conſider, that in the Church there is on Prieſt, and one Iudge for the time in ſteed of Chriſt.</q>
+                  </p>
+                  <p n="4">4. <hi>S. Baſill</hi> ſaith:
+<note place="margin">
+                        <hi>S. Baſil. lib. de Spiritu ſancto. c.</hi> 27.</note> The Doctrines which are in the Church now propoſed and Preached, we haue partly from the
+<pb n="12" facs="tcp:16332:7"/>
+                     <q>written Doctrine, partly from the Tra<g ref="char:EOLhyphen"/>ditions of the Apoſtles, brought vnto vs in miſtery,</q> both which are of like force to piety.</p>
+                  <p n="5">5.
+<note place="margin">
+                        <hi>S. Chrſyoſt.</hi> vpo<g ref="char:cmbAbbrStroke">̄</g> theſe words. 2. <hi>Theſſ.</hi> 4.14.</note> 
+                     <hi>S. Cryſoſtome</hi> vpon thoſe wordes, <hi>hold the traditions</hi> &amp;c. ſaith: Hence it is euedent, that the Apoſtles did not De<g ref="char:EOLhyphen"/>liuer <q>all in writing, but many thinges without writing, and that the one, and the other are a like worthy of Credit.</q>
+                  </p>
+                  <p n="6">6.
+<note place="margin">
+                        <hi>S. Auguſt. lib. contra epiſtolam fun damen<g ref="char:EOLhyphen"/>ti. cap.</hi> 5.</note> 
+                     <hi>S. Auguſtine</hi> attributeth ſo much to the Authority of the Church, that he ſaith: <q>I would not beleeue the Goſpell it ſelfe, if the Authority of the Church did not induce me. And ſpeaking of a poynt which could not be prooued out of Scripture,
+<note place="margin">
+                           <hi>Lib.</hi> 1. <hi>co<g ref="char:cmbAbbrStroke">̄</g>tra Creſcon. c.</hi> 32. <hi>or</hi> 33.</note> he ſaith: The Truth of Scripture is holden by vs, when we do that which pleaſeth the whole Church, which the Authority of the ſame Scri<g ref="char:EOLhyphen"/>ptures doth co<g ref="char:cmbAbbrStroke">̄</g>me<g ref="char:cmbAbbrStroke">̄</g>d, &amp; becauſe holy ſcri<g ref="char:EOLhyphen"/>pture cannot deceiue<g ref="char:cmbAbbrStroke">̄</g>, whoſoeuer is a<g ref="char:EOLhyphen"/>fraid to be deceiued with the obſcurity of this Queſtion: Let him aske the Iudg<g ref="char:EOLhyphen"/>ment of the Church, which without all ambiguity the holy Scripture doth De<g ref="char:EOLhyphen"/>monſtrate.</q>
+                     <note place="margin">
+                        <hi>Epiſt.</hi> 118. <hi>c.</hi> 1.</note> And in his Epiſtle, he affir<g ref="char:EOLhyphen"/>meth: That it is moſt inſolent madnes
+<pb n="13" facs="tcp:16332:7"/>to diſpute againſt that which the Church doth vniuerſally practize.
+<note place="margin">
+                        <hi>See Saint, Auguſtine de vtilita<g ref="char:EOLhyphen"/>te credendi cap.</hi> 10. <hi>vſ<g ref="char:EOLhyphen"/>que adſi<g ref="char:EOLhyphen"/>nem libri. S. Vince<g ref="char:cmbAbbrStroke">̄</g>ti<g ref="char:EOLhyphen"/>us Lirinen<g ref="char:EOLhyphen"/>ſis</hi> in his goulden treatiſe a<g ref="char:EOLhyphen"/>gainſt he reſie. <hi>c.</hi> 1.</note>
+                  </p>
+                  <p>Laſtly <hi>S. Vincentius Lirinenſis</hi> liuing neere to <hi>S Auguſtines</hi> time firſt aduiſeth (as a Rule to Diſcerne, and to preſerue vs from hereſy) to Ioyne the authority of the Catholick Church, her Tradition, and Interpretation to the written Word of God, in regard the height of Scripture is ſuch, as euery man doth not take it in one, and the ſame ſenſe, but ſo many ſenſuall men, ſo many ſenſuall ſenſes of it may be made. And he aſſureth, that this Church of Chriſt is ſo diligent and wary a keeper of Doctrine, Deliuered as a ſacred Depoſitunn vnto her, that <hi>nihil in his permut at, nihil minuit, nihil addit, ſhe neuer chaungeth any thing</hi> (to wit, by miſinterpretation of the ſenſe and meaninge of any point of Faith). nor <hi>di<g ref="char:EOLhyphen"/>miniſheth any thing</hi> (to wit, by Denying what was once held for a point of Faith.) <hi>nor addeth anie thing</hi> (to witt, by affir<g ref="char:EOLhyphen"/>ming any thing to be a <hi>Deuine Truth,</hi> which was no at firſt for ſuch Deliuered by <hi>Chriſt,</hi> &amp; his <hi>Apoſtles.</hi>) And a little after he ſheweth, that although it may ſeeme, that the Church in the Decrees
+<pb n="14" facs="tcp:16332:8"/>of her Cou<g ref="char:cmbAbbrStroke">̄</g>ſels may haue made ſome ad<g ref="char:EOLhyphen"/>dition, or change: yet indeede the addi<g ref="char:EOLhyphen"/>tion, or change is not in ſubſtance, or in ſenſe, but only (being excited by nouell Heretiques,) ſhe ſetteth downe in writinge what from our Elders ſhee re<g ref="char:EOLhyphen"/>ceiued by only <hi>Traditio<g ref="char:cmbAbbrStroke">̄</g>,</hi> and the bet<g ref="char:EOLhyphen"/>ter to expreſſe in words what was in<g ref="char:EOLhyphen"/>foulded in ancient Beleife, ſhe ſomtymes giueth to an old article (not a new ſenſe, but) a new name, as for example, the Conncell of <hi>Nice</hi> added the word <hi>Con<g ref="char:EOLhyphen"/>ſubſtanſttiall,</hi> and the <hi>Lateran</hi> Coun<g ref="char:EOLhyphen"/>cell, the word <hi>Tranſubſtantiation,</hi> with out any mutation of the Senſe of the Article.</p>
+                  <p n="3">3 <hi>I prooue the ſame Verity by theſe enſuing plaine reaſons.</hi>
+                  </p>
+                  <div n="1" type="reason">
+                     <head>The firſt Reaſon.</head>
+                     <p>If the Authority of the Church be not Infallible, but (as the Authority of o<g ref="char:EOLhyphen"/>ther men) onely fallible, and ſuch as may erre, and hath erred, in any one point propoſed as a deuine Truth, by Vnanimous Conſent, or ful authority of it. It will follow, that we neuer haue, nor can haue, (according to the or<g ref="char:EOLhyphen"/>dinary Courſe of Gods prouidence, anie
+<pb n="15" facs="tcp:16332:8"/>Infallible certainty of any other Point of our Faith propoſed by the Vnanimous Conſent, or full Authority of the ſame Church. For if it can erre, and hath erred in any ponit ſo Deliured; we may iuſt<g ref="char:EOLhyphen"/>ly feare, and haue no aſſured ground to aſſure, that ſhe teacheth Infallible Truth in any fo the reſt. As <hi>S. Auguſtin</hi> ſayth of holy Scrirture, if we once admit any vntruth to be in any one parte of it, we ſhall thereby take away all infallible authority, and credit from it in all the reſt.</p>
+                     <p>But if we neyther haue, nor can haue <hi>Infallible</hi> certainty of any point propoſed, as deuine <hi>Truth</hi> by vnanimous conſent, or full authorite of the Church, we can haue no Deuine fayth at all:
+<note place="margin">
+                           <hi>Rom.</hi> 10. <hi>Eph.</hi> 4.</note> for ſith as <hi>S. Paul</hi> ſignifieth; <hi>Deuine Fayth cometh by heraing the</hi> Word of Chriſt; preached by thoſe onely, who are law<g ref="char:EOLhyphen"/>fully ſent (as are thoſe Doctours and Paſtours lineally deſceding from Chriſt, and his Apoſtles, which by Chriſt his appointment muſt be allwayes in the Church (If we can not haue <hi>Infallible</hi> aſſurance, by hearing theſe Doctours, and Paſtouis in any poynt they teach,
+<pb n="16" facs="tcp:16332:9"/>we can haue noe Deuine <hi>Fayth</hi> at all; for this requireth <hi>Infallible</hi> aſſurance. Therfore, If the Authority of the Church or the Doctours or, Paſtours thereof be not <hi>Infallible</hi> in propoſing, and teach<g ref="char:EOLhyphen"/>ing Deuine <hi>Truth</hi> in whatſoeuer, euen in the leaſt poynt, we can haue no <hi>Infal<g ref="char:EOLhyphen"/>lible</hi> aſſurance in any other poynt of Deuine Truth, nor any Deuine Faith in whatſoeuer point allthough moſt neceſ<g ref="char:EOLhyphen"/>ſary to ſaluation.</p>
+                  </div>
+                  <div n="2" type="reason">
+                     <head>
+                        <hi>The</hi> 2. <hi>reaſon.</hi>
+                     </head>
+                     <p>IF we that liue now, had neuer hard of Chriſt, or his Apoſtles, or their Preaching, or writing Deuinely reuailed Truths, neceſſary to Saluation: or had onely heard of them one, or moe, but ſuch as weare co<g ref="char:cmbAbbrStroke">̄</g>monly, knowne to tell nothing but fictions, and lyes; we could not at leaſt according to the ordinary courſe of deuine Prouide<g ref="char:cmbAbbrStroke">̄</g>ce beleeue theſe neceſſary points at all; yea although we had heard of theſe, by ſome one, or moe honeſt men, who ſometymes ſpeake true, ſometymes falſe, the moſt we could doe were to aſſent vnto theſe things, by a probable, yet weake, and fallible opi<g ref="char:EOLhyphen"/>nion, or humane faith. Therefore to aſ<g ref="char:EOLhyphen"/>ſent
+<pb n="17" facs="tcp:16332:9"/>vnto theſe things, by an abſolute, ſure and Infallible Iudgment of Deuine Supernaturall faith; It is needfull, that theſe Doctours and Paſtours of the Church, by whoſe teachinge we are by the ordinarie courſe of Gods Proui<g ref="char:EOLhyphen"/>dence to learne them by men, not only ſent, but alſo Infallibly aſſiſted by God, and that partly with naturall, or at leaſt with Supernaturall guifts, this their Authority may Sufficiently be made knowne to be ſuch, as may Iuſtly moue men to a ſupernaturall, Deuine, and Infallible beleefe. For although. theſe things be (as they are in all the foreſaid caſes) <hi>in themſelues</hi> infallible, &amp; Deuine Truths; yet they do not breede <hi>in vs</hi> Infallible, ſupernaturall, and Deuine beleefe, vntill they be applyed to our vnderſtanding, by a meanes hauinge in it a due Proportion of Deuine, ſuper<g ref="char:EOLhyphen"/>naturall, and Infallible Authority. Sith therefore <hi>This ordinary</hi> meanes, which by Gods appointment, is to apply theſe Truths to our vnderſtanding; is no other, beſides the teaching of the Doctours, and Paſtours of the true, co<g ref="char:cmbAbbrStroke">̄</g>tinually Viſible, Catholique Church.
+<pb n="18" facs="tcp:16332:10"/>It muſt be granted, that they haue an Infallible, Supernaturall, and <hi>Par<g ref="char:EOLhyphen"/>ticipatiue</hi> Deuine Authority in their teaching, ſo long as they teach with Vnanimous conſent, and conformable to that, which is Authorized Doctrine of the Church.</p>
+                  </div>
+                  <div n="3" type="reason">
+                     <head>The Third Reaſon.</head>
+                     <p>IF there be not Infallible Authori<g ref="char:EOLhyphen"/>ty in the Paſtours of the Church, in Propoſing deuine Truths, by vnani<g ref="char:EOLhyphen"/>mous Conſent or by there full Autho<g ref="char:EOLhyphen"/>rity: it is (at leaſt morally) Impoſſible, that Vnity of Faith ſoe much commen<g ref="char:EOLhyphen"/>ded,
+<note place="margin">1. <hi>Cor.</hi> 1.10. <hi>
+                              <gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>pheſ.</hi> 4.3.45. <hi>
+                              <gap reason="illegible" extent="3 letters">
+                                 <desc>•••</desc>
+                              </gap>llpi.</hi> 2.2. <hi>Gel.</hi> 5.20.</note> and required ſo much to be a<g ref="char:EOLhyphen"/>mongſt Chriſtians, ſhould be preſerued, or that Hereſies, &amp; Schiſmes, ſo much fpoken againſt, both by Scriptures, &amp; Antient Fathers, could be preuented, or taken away. For ſith words, of Scrip<g ref="char:EOLhyphen"/>tures, do not expreſſe all matters pertaining to Faith, (as namely) which Bookes be Canonicall Scripture, which Apocriphall, which in doubtfull, and not euident cauſes, is true, and Infalli<g ref="char:EOLhyphen"/>ble tranſlation, and which is the Infal<g ref="char:EOLhyphen"/>lible ſence of the wordes of the holy
+<pb n="19" facs="tcp:16332:10"/>text, and which taxts thoſe be, which containe points of doctrine Fundamen<g ref="char:EOLhyphen"/>tall, or neceſſary for all ſorts to know, &amp; Beleeue expreſſely.) Sith alſo about ſee<g ref="char:EOLhyphen"/>ming plaine words of Scripture eue<g ref="char:cmbAbbrStroke">̄</g> co<g ref="char:cmbAbbrStroke">̄</g>
+                        <g ref="char:EOLhyphen"/>taining points neceſſary to be knowne, and beleeued expreſely, there haue bin, and daily doe, or may ariſe queſtions, or Coutrouerſies euen amongſt learned men, about the ſence; Some houlding it neceſſary to ſaluation to take the words in this, others in a contrary ſence. If there be not an Infallible Aucthority in the Church to inſtruct men Infallibly in the right ſence, and to deſide con<g ref="char:EOLhyphen"/>trouerſies ariſing about the ſence; How it is poſſible that men ſhould ſubmitt theſe there different opinions to ſome other mans Iudgment in matters of ſuch moment, as is eternall Saluation, or Damnation, when each man is, by nature apt to apprehend, that to be trueſt, which ſeemeth ſo to his owne witt and vnderſtanding, and that to be ſecureſt, which being ſutable to his owne apprehention, ſeemeth to be confirmed by (to-him-ſeeming-plaine) words of deuine Scripture, as euery
+<pb n="20" facs="tcp:16332:11"/>ſenſuall ſect maiſter apprehendeth his opnion to be confirmed by ſome or o<g ref="char:EOLhyphen"/>their (to-him-ſeeming-plaine) wordes of deuine Scripture.</p>
+                     <p>Other Reaſons might be added: But by theſe it is playne enough, that the Authority of the perpetuall <hi>Viſible</hi> Church, is not onely ſuch, as is of other priuat men, who do not Ordinarily erre in points of Faith, Fundamentall, and neceſſary to be knowne of all ſorts, or in ſuch points which they can euidently prooue out of Sripture: but that it is obſolutly Infallible, and neuer did, doth, or ſhall erre, at leaſt with Vna<g ref="char:EOLhyphen"/>nimous conſent, or when it teacheth by her full Authority, in whatſoeuer point Fundamentall, or not Fundamen<g ref="char:EOLhyphen"/>tall, prooued, or not prooued by Scri<g ref="char:EOLhyphen"/>pture.</p>
+                     <p>Which being ſo: you may plainly ſee, ſuppoſing there cannot (as there can<g ref="char:EOLhyphen"/>not) be aſſigned anie other <hi>True Viſible</hi> Church, in all Ages ſince Chriſt, dif<g ref="char:EOLhyphen"/>ferent from the <hi>Roman,</hi> which can, &amp; doth ſhew it felfe to haue beene
+<note n="(✚)" place="margin">See <gap reason="illegible" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> 
+                           <gap reason="illegible" extent="1 chunk">
+                              <desc>…</desc>
+                           </gap>bula <gap reason="illegible" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> al<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>o <hi>S. <gap reason="illegible" extent="1 span">
+                                 <desc>〈…〉</desc>
+                              </gap> Cata<g ref="char:EOLhyphen"/>
+                              <gap reason="illegible" extent="1 chunk">
+                                 <desc>…</desc>
+                              </gap> in the A<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>p<gap reason="illegible" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>dix to th<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> Anti<g ref="char:EOLhyphen"/>do<gap reason="illegible" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>.</hi>
+                        </note> 
+                        <hi>Vi<g ref="char:EOLhyphen"/>ſible,</hi> and teaching without change the Faith of Chriſt in all Ages. You may
+<pb n="21" facs="tcp:16332:11"/>ſee (I ſay) Firſt how ſafely you may rely vpon the Authority of the Roman Church, and noe other in whatſoeuer point, pertaining to Chriſtian Faith, and Religion, eſpcially when euen beſt learned Proteſta<g ref="char:cmbAbbrStroke">̄</g>ts do grant that
+<note n="(†)" place="margin">See <hi>Proteſtants Apology Tract.</hi> 1. <hi>Sect.</hi> 6.</note> Sal<g ref="char:EOLhyphen"/>uation may be had in it. 2 How vniuſtly Proteſtants prete<g ref="char:cmbAbbrStroke">̄</g>d cauſe of there ſepera<g ref="char:EOLhyphen"/>tion fro<g ref="char:cmbAbbrStroke">̄</g> her, to haue bene that ſhe hath changed her firſt faith, ether by Addi<g ref="char:EOLhyphen"/>tion, Detraction, or Miſinterpretation of any point of Faith, eſpecially neceſſary to ſaluation. Thirdly, how needfull it is for thoſe who (either for one reaſon, or other) remaine ſeperate from the Faith, Vnity, and obedience of the <hi>Roman</hi> Church, to returne with ſpeed into the Vnity of the Roman Church, as the doue into Noe his Arke, in regard there is noe other place, whereupon they may ſafely reſt the feete of their Faith, &amp; Conſcience, or where in they can abide with out danger of being drowned in eternall Damnation. For out of the true, infallible, all wayes Viſible Catholicke, (which is onely the Roman) Church. There is noe communion of Saints, no remiſſion of Sinnes, no ſaluation of
+<pb n="22" facs="tcp:16332:12"/>Soule to be hoped for. And what <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> it profit a man to gayne all the wo<gap reason="illegible" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap> with loſſe, or haſard of the loſſe of Eter<g ref="char:EOLhyphen"/>nall Saluation of his Soule.</p>
+                     <p>I will therefore conclude with t<gap reason="illegible" extent="2+ letters">
+                           <desc>••…</desc>
+                        </gap> Dilemma drawne out of a diſcourſe S. <hi>Auguſtine.</hi> If there be no Prouider of God in human matters, then a m<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> neede not indeuour to be of a right Re<g ref="char:EOLhyphen"/>ligion, nor care whether he be of this or that, or any Religion at all. But i<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> there be a deuine Prouidence (as all but Atheiſts do confeſſe, and theſe alſo may be co<g ref="char:cmbAbbrStroke">̄</g>uinced to beleeue by the greatnes, multitude, beauty, variety, and order which is ſeene in the whole world, and by the ſecret inſtinct ingrauen in the hartes of all, euen moſt barberous people, and felt ſomtimes, eſpecially in daunger of death, euen by Atheiſts them ſelues.) Then it is not to be dou<g ref="char:EOLhyphen"/>bted but that there is by deuine pro<g ref="char:EOLhyphen"/>uidence ordained ſome on, or other cer<g ref="char:EOLhyphen"/>taine, and Infallible Authority, vpon which, as vpon a ſure Step we may rely for finding out that one Infallible, and entire true Faith, and Religion, in which God is Pleaſed to be ſerued of
+<pb n="23" facs="tcp:16332:12"/>men, and without which it is Impoſſi<g ref="char:EOLhyphen"/>ble, that God ſhould be pleaſed, or men doe to him that duty, for which they were created, or attaine that happy End, vnto which they were ordained.</p>
+                     <p>But among all Authorities ordai<g ref="char:EOLhyphen"/>ned by Almighty God for this purpoſe, there is none greater, and more worthy to be credited, then the Authority of the Catholicke Romane Church, which euen by Confeſſion, or acknowledgme<g ref="char:cmbAbbrStroke">̄</g>t of Makind hath beene eſteemed to haue higheſt Authority from the Apoſtolicall Seate, &amp; by ſucceſſio<g ref="char:cmbAbbrStroke">̄</g> of Biſhops, while Heretiques haue in vaine barcked round about it, &amp; haue ben condemned partly by the Iudgment of the people, partly by the grauity of Counſels, partly by the Maieſty of Miracles. To which Autho<g ref="char:EOLhyphen"/>rity not to yeald principality is huge impiety, or headlong arrogancy.</p>
+                     <p>Therefore it is not to be doubted, but the Authority of the Catholicke Ro<g ref="char:EOLhyphen"/>man Church is Infallible, and that v<g ref="char:EOLhyphen"/>pon it, as vpon a ſure ſtepp we may rely, or finding out that One Infallible entire Faith, and Religion which is neceſſary to Saluation.</p>
+                  </div>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
